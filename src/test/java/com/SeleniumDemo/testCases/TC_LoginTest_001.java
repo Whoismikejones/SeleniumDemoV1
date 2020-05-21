@@ -13,7 +13,7 @@ public class TC_LoginTest_001 extends BaseClass {
 
 		logger.info("Url is opened");
 		try {
-			if (driver.getTitle().equals("nopCommerce demo store!")) {
+			if (driver.getTitle().equals("nopCommerce demo store")) {
 				Assert.assertTrue(true);
 				logger.info("Test Passed");
 
