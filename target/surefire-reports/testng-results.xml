@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="0" failed="1" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-05-21T11:09:29 CDT" name="SeleniumDemoV1" finished-at="2020-05-21T11:09:35 CDT" duration-ms="6298">
+  <suite started-at="2020-05-21T13:41:16 CDT" name="SeleniumDemoV1" finished-at="2020-05-21T13:41:22 CDT" duration-ms="5741">
     <groups>
     </groups>
-    <test started-at="2020-05-21T11:09:29 CDT" name="Login Test" finished-at="2020-05-21T11:09:35 CDT" duration-ms="6298">
+    <test started-at="2020-05-21T13:41:16 CDT" name="Login Test" finished-at="2020-05-21T13:41:22 CDT" duration-ms="5741">
       <class name="com.SeleniumDemo.testCases.TC_LoginTest_001">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.SeleniumDemo.testCases.TC_LoginTest_001@45afc369]" started-at="2020-05-21T11:09:29 CDT" name="setup" finished-at="2020-05-21T11:09:33 CDT" duration-ms="4063" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.SeleniumDemo.testCases.TC_LoginTest_001@45afc369]" started-at="2020-05-21T13:41:16 CDT" name="setup" finished-at="2020-05-21T13:41:20 CDT" duration-ms="3831" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -18,7 +18,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="loginTest()[pri:0, instance:com.SeleniumDemo.testCases.TC_LoginTest_001@45afc369]" started-at="2020-05-21T11:09:33 CDT" name="loginTest" finished-at="2020-05-21T11:09:34 CDT" duration-ms="1051" status="FAIL">
+        <test-method signature="loginTest()[pri:0, instance:com.SeleniumDemo.testCases.TC_LoginTest_001@45afc369]" started-at="2020-05-21T13:41:20 CDT" name="loginTest" finished-at="2020-05-21T13:41:21 CDT" duration-ms="1101" status="FAIL">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[expected [true] but found [false]]]>
@@ -67,7 +67,7 @@ at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:103)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.SeleniumDemo.testCases.TC_LoginTest_001@45afc369]" started-at="2020-05-21T11:09:34 CDT" name="tearDown" finished-at="2020-05-21T11:09:35 CDT" duration-ms="1014" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.SeleniumDemo.testCases.TC_LoginTest_001@45afc369]" started-at="2020-05-21T13:41:21 CDT" name="tearDown" finished-at="2020-05-21T13:41:22 CDT" duration-ms="605" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
