@@ -1,0 +1,328 @@
+[DEBUG] 2020-05-13 20:56:20.803 [main] LoggerTest - We've just greeted the user!
+[INFO ] 2020-05-13 20:56:20.805 [main] LoggerTest - We've just greeted the user!
+[WARN ] 2020-05-13 20:56:20.805 [main] LoggerTest - We've just greeted the user!
+[ERROR] 2020-05-13 20:56:20.806 [main] LoggerTest - We've just greeted the user!
+[FATAL] 2020-05-13 20:56:20.806 [main] LoggerTest - We've just greeted the user!
+[INFO ] 2020-05-14 16:02:39.336 [main] BaseClass - Url is opened
+[INFO ] 2020-05-14 16:02:39.348 [main] BaseClass - Test Passed
+[INFO ] 2020-05-14 20:02:04.358 [main] BaseClass - Url is opened
+[INFO ] 2020-05-14 20:02:04.370 [main] BaseClass - Test Passed
+[INFO ] 2020-05-15 10:58:47.550 [main] BaseClass - Url is opened
+[INFO ] 2020-05-15 10:58:47.564 [main] BaseClass - Test Passed
+[INFO ] 2020-05-15 11:09:48.747 [main] BaseClass - Url is opened
+[INFO ] 2020-05-15 11:09:48.760 [main] BaseClass - Test Passed
+[INFO ] 2020-05-16 09:15:19.350 [main] BaseClass - Url is opened
+[INFO ] 2020-05-16 09:18:07.809 [main] BaseClass - Url is opened
+[INFO ] 2020-05-17 09:11:22.776 [main] BaseClass - Test Passed
+[INFO ] 2020-05-17 09:11:26.469 [main] BaseClass - Test Passed
+[INFO ] 2020-05-17 09:11:29.935 [main] BaseClass - Test Passed
+[INFO ] 2020-05-17 09:11:33.539 [main] BaseClass - Test Passed
+[INFO ] 2020-05-17 09:11:37.138 [main] BaseClass - Test Passed
+[INFO ] 2020-05-17 09:12:07.214 [main] BaseClass - Test Passed
+[INFO ] 2020-05-17 10:42:51.559 [main] BaseClass - Url is opened
+[INFO ] 2020-05-17 10:46:30.093 [main] BaseClass - Url is opened
+[INFO ] 2020-05-18 11:17:55.558 [main] BaseClass - Url is opened
+[INFO ] 2020-05-18 11:18:08.595 [main] BaseClass - Test Passed
+[INFO ] 2020-05-18 11:18:08.614 [main] BaseClass - Url is opened
+[INFO ] 2020-05-18 11:18:21.208 [main] BaseClass - Test Passed
+[INFO ] 2020-05-18 11:18:21.211 [main] BaseClass - Url is opened
+[INFO ] 2020-05-18 11:18:33.874 [main] BaseClass - Test Passed
+[INFO ] 2020-05-18 11:34:11.229 [main] BaseClass - Url is opened
+[INFO ] 2020-05-18 11:34:23.821 [main] BaseClass - Url is opened
+[INFO ] 2020-05-18 11:34:36.049 [main] BaseClass - Url is opened
+[INFO ] 2020-05-18 11:34:47.863 [main] BaseClass - Url is opened
+[INFO ] 2020-05-18 11:34:59.687 [main] BaseClass - Url is opened
+[INFO ] 2020-05-18 11:55:38.048 [main] BaseClass - Url is opened
+[INFO ] 2020-05-18 11:55:50.444 [main] BaseClass - Url is opened
+[INFO ] 2020-05-18 11:56:02.313 [main] BaseClass - Url is opened
+[INFO ] 2020-05-18 11:56:14.026 [main] BaseClass - Url is opened
+[INFO ] 2020-05-18 11:56:25.707 [main] BaseClass - Url is opened
+[INFO ] 2020-05-18 12:30:18.078 [main] BaseClass - Url is opened
+[INFO ] 2020-05-18 12:30:30.332 [main] BaseClass - Url is opened
+[INFO ] 2020-05-18 12:45:53.355 [main] BaseClass - Url is opened
+[INFO ] 2020-05-18 12:46:06.457 [main] BaseClass - Test Passed
+[INFO ] 2020-05-18 12:46:06.475 [main] BaseClass - Url is opened
+[INFO ] 2020-05-18 12:46:18.832 [main] BaseClass - Test Passed
+[INFO ] 2020-05-18 12:46:18.836 [main] BaseClass - Url is opened
+[INFO ] 2020-05-18 12:46:31.295 [main] BaseClass - Test Passed
+[INFO ] 2020-05-18 12:56:50.189 [main] BaseClass - Url is opened
+[INFO ] 2020-05-18 12:57:03.481 [main] BaseClass - Test Passed
+[INFO ] 2020-05-18 12:57:03.498 [main] BaseClass - Url is opened
+[INFO ] 2020-05-18 12:57:15.881 [main] BaseClass - Test Passed
+[INFO ] 2020-05-18 12:57:15.887 [main] BaseClass - Url is opened
+[INFO ] 2020-05-18 12:57:28.677 [main] BaseClass - Test Passed
+[INFO ] 2020-05-18 12:57:59.133 [main] BaseClass - Url is opened
+[INFO ] 2020-05-18 12:58:12.582 [main] BaseClass - Test Passed
+[INFO ] 2020-05-18 12:58:12.596 [main] BaseClass - Url is opened
+[INFO ] 2020-05-18 12:58:25.671 [main] BaseClass - Test Passed
+[INFO ] 2020-05-18 13:11:05.871 [main] BaseClass - Url is opened
+[INFO ] 2020-05-18 13:11:05.884 [main] BaseClass - Test Passed
+[INFO ] 2020-05-18 13:11:10.408 [main] BaseClass - Url is opened
+[INFO ] 2020-05-18 13:11:24.282 [main] BaseClass - Test Passed
+[INFO ] 2020-05-18 13:11:24.285 [main] BaseClass - Url is opened
+[INFO ] 2020-05-18 13:11:30.402 [main] BaseClass - Url is opened
+[INFO ] 2020-05-18 13:12:16.148 [main] BaseClass - Test Passed
+[INFO ] 2020-05-18 13:12:16.151 [main] BaseClass - Url is opened
+[INFO ] 2020-05-18 13:12:28.722 [main] BaseClass - Test Passed
+[INFO ] 2020-05-18 13:12:28.725 [main] BaseClass - Url is opened
+[INFO ] 2020-05-18 13:12:41.456 [main] BaseClass - Test Passed
+[INFO ] 2020-05-18 13:14:56.935 [main] BaseClass - Url is opened
+[INFO ] 2020-05-18 13:14:56.948 [main] BaseClass - Test Passed
+[INFO ] 2020-05-18 13:15:34.479 [main] BaseClass - Url is opened
+[INFO ] 2020-05-18 13:15:48.236 [main] BaseClass - Test Passed
+[INFO ] 2020-05-18 13:15:48.251 [main] BaseClass - Url is opened
+[INFO ] 2020-05-18 13:20:33.199 [main] BaseClass - Url is opened
+[INFO ] 2020-05-18 13:20:47.130 [main] BaseClass - Test Passed
+[INFO ] 2020-05-18 13:20:49.147 [main] BaseClass - Url is opened
+[INFO ] 2020-05-18 13:21:02.101 [main] BaseClass - Test Passed
+[INFO ] 2020-05-18 17:59:48.053 [main] BaseClass - Url is opened
+[WARN ] 2020-05-18 18:00:23.947 [main] BaseClass - User unable to login
+[INFO ] 2020-05-18 18:05:05.409 [main] BaseClass - Url is opened
+[INFO ] 2020-05-18 19:07:42.748 [main] BaseClass - Url is opened
+[INFO ] 2020-05-18 19:07:56.657 [main] BaseClass - Test Passed
+[INFO ] 2020-05-18 19:08:32.581 [main] BaseClass - Url is opened
+[WARN ] 2020-05-18 19:08:46.213 [main] BaseClass - Test Failed
+[INFO ] 2020-05-18 19:15:59.257 [main] BaseClass - Url is opened
+[INFO ] 2020-05-18 19:16:13.050 [main] BaseClass - Test Passed
+[INFO ] 2020-05-19 09:36:25.433 [main] BaseClass - Url is opened
+[INFO ] 2020-05-19 09:36:39.385 [main] BaseClass - Test Passed
+[INFO ] 2020-05-19 10:18:43.757 [main] BaseClass - Url is opened
+[INFO ] 2020-05-19 10:18:46.507 [main] BaseClass - Providing customer details
+[INFO ] 2020-05-19 10:18:57.706 [main] BaseClass - Test Passed
+[INFO ] 2020-05-19 10:22:32.897 [main] BaseClass - Url is opened
+[INFO ] 2020-05-19 10:22:32.914 [main] BaseClass - Test Passed
+[INFO ] 2020-05-19 10:22:38.408 [main] BaseClass - Url is opened
+[INFO ] 2020-05-19 10:22:49.009 [main] BaseClass - Test Passed
+[INFO ] 2020-05-19 10:22:51.017 [main] BaseClass - Url is opened
+[INFO ] 2020-05-19 10:23:01.351 [main] BaseClass - Test Passed
+[INFO ] 2020-05-19 10:23:08.189 [main] BaseClass - Url is opened
+[INFO ] 2020-05-19 10:23:27.905 [main] BaseClass - Test Passed
+[INFO ] 2020-05-19 10:23:27.910 [main] BaseClass - Url is opened
+[INFO ] 2020-05-19 10:23:47.647 [main] BaseClass - Test Passed
+[INFO ] 2020-05-19 10:23:47.656 [main] BaseClass - Url is opened
+[INFO ] 2020-05-19 10:24:07.107 [main] BaseClass - Test Passed
+[INFO ] 2020-05-19 10:24:12.318 [main] BaseClass - Url is opened
+[INFO ] 2020-05-19 10:24:15.277 [main] BaseClass - Providing customer details
+[INFO ] 2020-05-19 10:24:26.209 [main] BaseClass - Test Passed
+[INFO ] 2020-05-19 10:32:00.133 [main] BaseClass - Url is opened
+[INFO ] 2020-05-19 10:32:02.913 [main] BaseClass - Providing customer details
+[WARN ] 2020-05-19 10:32:14.058 [main] BaseClass - Test Failed
+[INFO ] 2020-05-19 10:33:48.158 [main] BaseClass - Url is opened
+[INFO ] 2020-05-19 10:33:51.264 [main] BaseClass - Providing customer details
+[WARN ] 2020-05-19 10:34:02.423 [main] BaseClass - Test Failed
+[INFO ] 2020-05-19 10:58:28.223 [main] BaseClass - Url is opened
+[INFO ] 2020-05-19 10:58:30.721 [main] BaseClass - Providing customer details
+[WARN ] 2020-05-19 10:58:41.904 [main] BaseClass - Test Failed
+[INFO ] 2020-05-19 11:00:51.845 [main] BaseClass - Url is opened
+[INFO ] 2020-05-19 11:00:54.565 [main] BaseClass - Providing customer details
+[WARN ] 2020-05-19 11:01:05.398 [main] BaseClass - Test Failed
+[INFO ] 2020-05-19 11:04:41.966 [main] BaseClass - Url is opened
+[INFO ] 2020-05-19 11:04:44.726 [main] BaseClass - Providing customer details
+[WARN ] 2020-05-19 11:04:55.403 [main] BaseClass - Test Failed
+[INFO ] 2020-05-19 11:08:23.438 [main] BaseClass - Url is opened
+[INFO ] 2020-05-19 11:08:26.229 [main] BaseClass - Providing customer details
+[INFO ] 2020-05-19 11:16:28.578 [main] BaseClass - Url is opened
+[INFO ] 2020-05-19 11:16:31.377 [main] BaseClass - Providing customer details
+[INFO ] 2020-05-19 11:58:50.018 [main] BaseClass - Url is opened
+[INFO ] 2020-05-19 11:58:52.741 [main] BaseClass - Providing customer details
+[INFO ] 2020-05-19 11:59:57.033 [main] BaseClass - Url is opened
+[INFO ] 2020-05-19 11:59:59.811 [main] BaseClass - Providing customer details
+[INFO ] 2020-05-19 12:01:53.344 [main] BaseClass - Url is opened
+[INFO ] 2020-05-19 12:01:56.084 [main] BaseClass - Providing customer details
+[INFO ] 2020-05-19 12:09:10.124 [main] BaseClass - Url is opened
+[INFO ] 2020-05-19 12:09:12.901 [main] BaseClass - Providing customer details
+[INFO ] 2020-05-19 12:12:56.581 [main] BaseClass - Url is opened
+[INFO ] 2020-05-19 12:12:59.289 [main] BaseClass - Providing customer details
+[INFO ] 2020-05-19 12:17:31.129 [main] BaseClass - Url is opened
+[INFO ] 2020-05-19 12:17:33.877 [main] BaseClass - Providing customer details
+[INFO ] 2020-05-19 12:21:43.851 [main] BaseClass - Url is opened
+[INFO ] 2020-05-19 12:30:04.891 [main] BaseClass - Url is opened
+[INFO ] 2020-05-19 12:30:07.617 [main] BaseClass - Providing customer details
+[INFO ] 2020-05-19 12:41:58.249 [main] BaseClass - Url is opened
+[INFO ] 2020-05-19 12:42:01.040 [main] BaseClass - Providing customer details
+[INFO ] 2020-05-19 12:54:06.412 [main] BaseClass - Url is opened
+[INFO ] 2020-05-19 12:54:08.921 [main] BaseClass - Providing customer details
+[INFO ] 2020-05-19 12:55:22.941 [main] BaseClass - Url is opened
+[INFO ] 2020-05-19 12:55:25.485 [main] BaseClass - Providing customer details
+[INFO ] 2020-05-19 12:57:54.863 [main] BaseClass - Url is opened
+[INFO ] 2020-05-19 12:57:57.336 [main] BaseClass - Providing customer details
+[INFO ] 2020-05-19 12:58:08.347 [main] BaseClass - Test Passed
+[INFO ] 2020-05-19 13:01:15.236 [main] BaseClass - Url is opened
+[INFO ] 2020-05-19 13:01:18.000 [main] BaseClass - Providing customer details
+[INFO ] 2020-05-19 13:03:15.172 [main] BaseClass - Url is opened
+[INFO ] 2020-05-19 13:03:17.887 [main] BaseClass - Providing customer details
+[INFO ] 2020-05-19 13:03:28.902 [main] BaseClass - Test Passed
+[INFO ] 2020-05-19 13:05:20.980 [main] BaseClass - Url is opened
+[INFO ] 2020-05-19 13:05:23.692 [main] BaseClass - Providing customer details
+[INFO ] 2020-05-19 13:05:34.606 [main] BaseClass - Test Passed
+[INFO ] 2020-05-19 13:06:01.659 [main] BaseClass - Url is opened
+[INFO ] 2020-05-19 13:06:04.356 [main] BaseClass - Providing customer details
+[INFO ] 2020-05-19 13:07:19.214 [main] BaseClass - Url is opened
+[INFO ] 2020-05-19 13:07:21.934 [main] BaseClass - Providing customer details
+[INFO ] 2020-05-19 13:12:20.083 [main] BaseClass - Url is opened
+[INFO ] 2020-05-19 13:12:22.826 [main] BaseClass - Providing customer details
+[WARN ] 2020-05-19 13:12:33.693 [main] BaseClass - Test Failed
+[INFO ] 2020-05-19 13:17:20.557 [main] BaseClass - Url is opened
+[INFO ] 2020-05-19 13:17:23.284 [main] BaseClass - Providing customer details
+[INFO ] 2020-05-19 13:18:32.885 [main] BaseClass - Url is opened
+[INFO ] 2020-05-19 13:18:35.664 [main] BaseClass - Providing customer details
+[WARN ] 2020-05-19 13:18:46.672 [main] BaseClass - Test Failed
+[INFO ] 2020-05-19 13:19:14.930 [main] BaseClass - Url is opened
+[INFO ] 2020-05-19 13:19:17.645 [main] BaseClass - Providing customer details
+[WARN ] 2020-05-19 13:19:28.532 [main] BaseClass - Test Failed
+[INFO ] 2020-05-19 13:22:38.121 [main] BaseClass - Url is opened
+[INFO ] 2020-05-19 13:22:40.872 [main] BaseClass - Providing customer details
+[WARN ] 2020-05-19 13:22:51.878 [main] BaseClass - Test Failed
+[INFO ] 2020-05-19 13:23:43.932 [main] BaseClass - Url is opened
+[INFO ] 2020-05-19 13:23:46.687 [main] BaseClass - Providing customer details
+[WARN ] 2020-05-19 13:23:57.839 [main] BaseClass - Test Failed
+[INFO ] 2020-05-19 13:24:46.620 [main] BaseClass - Url is opened
+[INFO ] 2020-05-19 13:24:49.153 [main] BaseClass - Providing customer details
+[WARN ] 2020-05-19 13:24:59.834 [main] BaseClass - Test Failed
+[INFO ] 2020-05-19 13:31:05.503 [main] BaseClass - Url is opened
+[INFO ] 2020-05-19 13:31:08.312 [main] BaseClass - Providing customer details
+[WARN ] 2020-05-19 13:31:19.438 [main] BaseClass - Test Failed
+[INFO ] 2020-05-19 13:35:27.552 [main] BaseClass - Url is opened
+[INFO ] 2020-05-19 13:35:30.173 [main] BaseClass - Providing customer details
+[INFO ] 2020-05-19 13:35:41.395 [main] BaseClass - Test Passed
+[INFO ] 2020-05-19 13:36:29.188 [main] BaseClass - Url is opened
+[INFO ] 2020-05-19 13:36:31.944 [main] BaseClass - Providing customer details
+[WARN ] 2020-05-19 13:36:43.266 [main] BaseClass - Test Failed
+[INFO ] 2020-05-19 13:37:41.572 [main] BaseClass - Url is opened
+[INFO ] 2020-05-19 13:37:44.356 [main] BaseClass - Providing customer details
+[INFO ] 2020-05-19 13:38:52.943 [main] BaseClass - Url is opened
+[INFO ] 2020-05-19 13:38:55.747 [main] BaseClass - Providing customer details
+[WARN ] 2020-05-19 13:39:07.223 [main] BaseClass - Test Failed
+[INFO ] 2020-05-19 13:39:43.686 [main] BaseClass - Url is opened
+[INFO ] 2020-05-19 13:39:46.473 [main] BaseClass - Providing customer details
+[WARN ] 2020-05-19 13:39:57.673 [main] BaseClass - Test Failed
+[INFO ] 2020-05-19 13:40:23.626 [main] BaseClass - Url is opened
+[INFO ] 2020-05-19 13:40:26.388 [main] BaseClass - Providing customer details
+[INFO ] 2020-05-19 13:40:37.585 [main] BaseClass - Test Passed
+[INFO ] 2020-05-20 12:15:33.349 [main] BaseClass - Url is opened
+[INFO ] 2020-05-20 12:15:33.362 [main] BaseClass - Test Passed
+[INFO ] 2020-05-20 12:17:27.982 [main] BaseClass - Url is opened
+[INFO ] 2020-05-20 12:17:30.475 [main] BaseClass - Providing customer details
+[INFO ] 2020-05-20 12:17:41.657 [main] BaseClass - Test Passed
+[INFO ] 2020-05-20 15:56:10.811 [main] BaseClass - Url is opened
+[INFO ] 2020-05-20 15:56:10.824 [main] BaseClass - Test Passed
+[INFO ] 2020-05-20 16:25:55.514 [main] BaseClass - Url is opened
+[INFO ] 2020-05-20 16:25:55.531 [main] BaseClass - Test Passed
+[INFO ] 2020-05-20 16:26:00.531 [main] BaseClass - Url is opened
+[INFO ] 2020-05-20 16:26:11.436 [main] BaseClass - Test Passed
+[INFO ] 2020-05-20 16:26:13.446 [main] BaseClass - Url is opened
+[INFO ] 2020-05-20 16:26:23.412 [main] BaseClass - Test Passed
+[INFO ] 2020-05-20 16:26:29.285 [main] BaseClass - Url is opened
+[INFO ] 2020-05-20 16:26:49.363 [main] BaseClass - Test Passed
+[INFO ] 2020-05-20 16:26:49.367 [main] BaseClass - Url is opened
+[INFO ] 2020-05-20 16:27:08.944 [main] BaseClass - Test Passed
+[INFO ] 2020-05-20 16:27:08.947 [main] BaseClass - Url is opened
+[INFO ] 2020-05-20 16:27:28.506 [main] BaseClass - Test Passed
+[INFO ] 2020-05-20 16:27:32.331 [main] BaseClass - Url is opened
+[INFO ] 2020-05-20 16:27:34.862 [main] BaseClass - Providing customer details
+[INFO ] 2020-05-20 16:27:45.501 [main] BaseClass - Test Passed
+[INFO ] 2020-05-20 16:54:36.607 [main] BaseClass - Url is opened
+[INFO ] 2020-05-20 16:54:36.621 [main] BaseClass - Test Passed
+[INFO ] 2020-05-20 16:54:41.710 [main] BaseClass - Url is opened
+[INFO ] 2020-05-20 16:54:52.185 [main] BaseClass - Test Passed
+[INFO ] 2020-05-20 16:54:54.189 [main] BaseClass - Url is opened
+[INFO ] 2020-05-20 16:55:04.282 [main] BaseClass - Test Passed
+[INFO ] 2020-05-20 16:55:10.236 [main] BaseClass - Url is opened
+[INFO ] 2020-05-20 16:55:30.155 [main] BaseClass - Test Passed
+[INFO ] 2020-05-20 16:55:30.158 [main] BaseClass - Url is opened
+[INFO ] 2020-05-20 16:55:49.859 [main] BaseClass - Test Passed
+[INFO ] 2020-05-20 16:55:49.860 [main] BaseClass - Url is opened
+[INFO ] 2020-05-20 16:56:09.135 [main] BaseClass - Test Passed
+[INFO ] 2020-05-20 16:56:12.999 [main] BaseClass - Url is opened
+[INFO ] 2020-05-20 16:56:15.791 [main] BaseClass - Providing customer details
+[INFO ] 2020-05-20 16:56:26.514 [main] BaseClass - Test Passed
+[INFO ] 2020-05-20 17:44:47.353 [main] BaseClass - Url is opened
+[INFO ] 2020-05-20 17:44:47.368 [main] BaseClass - Test Passed
+[INFO ] 2020-05-20 17:44:51.644 [main] BaseClass - Url is opened
+[INFO ] 2020-05-20 17:45:02.206 [main] BaseClass - Test Passed
+[INFO ] 2020-05-20 17:45:04.211 [main] BaseClass - Url is opened
+[INFO ] 2020-05-20 17:45:14.379 [main] BaseClass - Test Passed
+[INFO ] 2020-05-20 17:45:20.242 [main] BaseClass - Url is opened
+[INFO ] 2020-05-20 17:45:40.118 [main] BaseClass - Test Passed
+[INFO ] 2020-05-20 17:45:40.120 [main] BaseClass - Url is opened
+[INFO ] 2020-05-20 17:45:59.943 [main] BaseClass - Test Passed
+[INFO ] 2020-05-20 17:45:59.944 [main] BaseClass - Url is opened
+[INFO ] 2020-05-20 17:46:19.373 [main] BaseClass - Test Passed
+[INFO ] 2020-05-20 17:46:23.263 [main] BaseClass - Url is opened
+[INFO ] 2020-05-20 17:46:26.031 [main] BaseClass - Providing customer details
+[INFO ] 2020-05-20 17:46:36.860 [main] BaseClass - Test Passed
+[INFO ] 2020-05-20 17:49:18.661 [main] BaseClass - Url is opened
+[INFO ] 2020-05-20 17:49:18.682 [main] BaseClass - Test Passed
+[INFO ] 2020-05-20 17:49:23.481 [main] BaseClass - Url is opened
+[INFO ] 2020-05-20 17:49:34.667 [main] BaseClass - Test Passed
+[INFO ] 2020-05-20 17:49:36.674 [main] BaseClass - Url is opened
+[INFO ] 2020-05-20 17:49:46.692 [main] BaseClass - Test Passed
+[INFO ] 2020-05-20 17:49:52.932 [main] BaseClass - Url is opened
+[INFO ] 2020-05-20 17:50:13.235 [main] BaseClass - Test Passed
+[INFO ] 2020-05-20 17:50:13.236 [main] BaseClass - Url is opened
+[INFO ] 2020-05-20 17:50:32.790 [main] BaseClass - Test Passed
+[INFO ] 2020-05-20 17:50:32.792 [main] BaseClass - Url is opened
+[INFO ] 2020-05-20 17:50:52.287 [main] BaseClass - Test Passed
+[INFO ] 2020-05-20 17:50:56.363 [main] BaseClass - Url is opened
+[INFO ] 2020-05-20 17:50:59.095 [main] BaseClass - Providing customer details
+[INFO ] 2020-05-20 17:51:09.879 [main] BaseClass - Test Passed
+[INFO ] 2020-05-20 18:15:48.168 [main] BaseClass - Url is opened
+[INFO ] 2020-05-20 18:15:48.182 [main] BaseClass - Test Passed
+[INFO ] 2020-05-20 18:15:52.603 [main] BaseClass - Url is opened
+[INFO ] 2020-05-20 18:16:03.202 [main] BaseClass - Test Passed
+[INFO ] 2020-05-20 18:16:05.208 [main] BaseClass - Url is opened
+[INFO ] 2020-05-20 18:16:15.374 [main] BaseClass - Test Passed
+[INFO ] 2020-05-20 18:16:21.394 [main] BaseClass - Url is opened
+[INFO ] 2020-05-20 18:16:41.322 [main] BaseClass - Test Passed
+[INFO ] 2020-05-20 18:16:41.325 [main] BaseClass - Url is opened
+[INFO ] 2020-05-20 18:17:00.916 [main] BaseClass - Test Passed
+[INFO ] 2020-05-20 18:17:00.919 [main] BaseClass - Url is opened
+[INFO ] 2020-05-20 18:17:20.481 [main] BaseClass - Test Passed
+[INFO ] 2020-05-20 18:17:24.345 [main] BaseClass - Url is opened
+[INFO ] 2020-05-20 18:17:27.086 [main] BaseClass - Providing customer details
+[INFO ] 2020-05-20 18:17:37.691 [main] BaseClass - Test Passed
+[INFO ] 2020-05-20 18:18:17.454 [main] BaseClass - Url is opened
+[INFO ] 2020-05-20 18:18:17.469 [main] BaseClass - Test Passed
+[INFO ] 2020-05-20 18:18:21.861 [main] BaseClass - Url is opened
+[INFO ] 2020-05-20 18:18:32.471 [main] BaseClass - Test Passed
+[INFO ] 2020-05-20 18:18:34.477 [main] BaseClass - Url is opened
+[INFO ] 2020-05-20 18:18:44.721 [main] BaseClass - Test Passed
+[INFO ] 2020-05-20 18:18:50.752 [main] BaseClass - Url is opened
+[INFO ] 2020-05-20 18:19:11.005 [main] BaseClass - Test Passed
+[INFO ] 2020-05-20 18:19:11.007 [main] BaseClass - Url is opened
+[INFO ] 2020-05-20 18:19:30.909 [main] BaseClass - Test Passed
+[INFO ] 2020-05-20 18:19:30.911 [main] BaseClass - Url is opened
+[INFO ] 2020-05-20 18:19:50.640 [main] BaseClass - Test Passed
+[INFO ] 2020-05-20 18:19:54.218 [main] BaseClass - Url is opened
+[INFO ] 2020-05-20 18:19:57.015 [main] BaseClass - Providing customer details
+[INFO ] 2020-05-20 18:20:08.081 [main] BaseClass - Test Passed
+[INFO ] 2020-05-20 19:00:50.762 [main] BaseClass - Url is opened
+[INFO ] 2020-05-20 19:00:50.774 [main] BaseClass - Test Passed
+[INFO ] 2020-05-20 21:02:44.894 [main] BaseClass - Url is opened
+[INFO ] 2020-05-20 21:02:44.912 [main] BaseClass - Test Passed
+[INFO ] 2020-05-20 21:03:21.288 [main] BaseClass - Url is opened
+[INFO ] 2020-05-20 21:03:21.303 [main] BaseClass - Test Passed
+[INFO ] 2020-05-20 21:03:37.844 [main] BaseClass - Url is opened
+[INFO ] 2020-05-20 21:03:37.855 [main] BaseClass - Test Passed
+[INFO ] 2020-05-21 08:30:14.926 [main] BaseClass - Url is opened
+[INFO ] 2020-05-21 08:30:14.942 [main] BaseClass - Test Passed
+[INFO ] 2020-05-21 08:30:33.611 [main] BaseClass - Url is opened
+[INFO ] 2020-05-21 08:30:33.624 [main] BaseClass - Test Passed
+[INFO ] 2020-05-21 08:55:28.611 [main] BaseClass - Url is opened
+[INFO ] 2020-05-21 08:55:29.060 [main] BaseClass - Test Passed
+[INFO ] 2020-05-21 09:01:11.947 [main] BaseClass - Url is opened
+[INFO ] 2020-05-21 09:01:12.501 [main] BaseClass - Test Passed
+[INFO ] 2020-05-21 09:03:37.050 [main] BaseClass - Url is opened
+[INFO ] 2020-05-21 09:03:37.062 [main] BaseClass - Test Passed
+[INFO ] 2020-05-21 09:05:27.618 [main] BaseClass - Url is opened
+[INFO ] 2020-05-21 09:05:28.083 [main] BaseClass - Test Passed
+[INFO ] 2020-05-21 09:10:07.253 [main] BaseClass - Url is opened
+[WARN ] 2020-05-21 09:11:08.354 [main] BaseClass - Exception encountered
+[INFO ] 2020-05-21 09:13:59.951 [main] BaseClass - Url is opened
+[INFO ] 2020-05-21 09:21:26.284 [main] BaseClass - Url is opened
+[INFO ] 2020-05-21 09:29:16.668 [main] BaseClass - Url is opened
+[INFO ] 2020-05-21 09:35:14.737 [main] BaseClass - Url is opened
+[INFO ] 2020-05-21 09:41:23.188 [main] BaseClass - Url is opened
+[INFO ] 2020-05-21 09:48:28.926 [main] BaseClass - Url is opened
+[INFO ] 2020-05-21 11:09:33.999 [main] BaseClass - Url is opened
+[INFO ] 2020-05-21 11:12:21.444 [main] BaseClass - Url is opened
