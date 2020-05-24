@@ -2,6 +2,7 @@ com\SeleniumDemo\testCases\TC_LoginTest_001.class
 com\SeleniumDemo\testCases\BaseClass.class
 com\SeleniumDemo\pageObjects\Register.class
 com\SeleniumDemo\utilities\ReadConfig.class
+com\SeleniumDemo\testCases\TC_API_GET_Request_001.class
 com\SeleniumDemo\utilities\XLUtils.class
 com\SeleniumDemo\utilities\Reporting.class
 com\SeleniumDemo\testCases\TC_LoginDDT_003.class

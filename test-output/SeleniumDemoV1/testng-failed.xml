@@ -7,13 +7,11 @@
   <test thread-count="5" name="Login Test(failed)">
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="com.SeleniumDemo.testCases.TC_LoginTest_001">
+      <class name="com.SeleniumDemo.testCases.TC_API_GET_Request_001">
         <methods>
-          <include name="setup"/>
-          <include name="loginTest"/>
-          <include name="tearDown"/>
+          <include name="getWeatherCondition"/>
         </methods>
-      </class> <!-- com.SeleniumDemo.testCases.TC_LoginTest_001 -->
+      </class> <!-- com.SeleniumDemo.testCases.TC_API_GET_Request_001 -->
     </classes>
   </test> <!-- Login Test(failed) -->
 </suite> <!-- Failed suite [SeleniumDemoV1] -->

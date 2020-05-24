@@ -47,7 +47,7 @@ public class TC_LoginDDT_002 extends BaseClass {
 				Thread.sleep(2000);
 			}
 		} catch (Exception e) {
-			logger.warn("Exception encountered");
+			logger.error("Exception encountered" + e.getMessage());
 		}
 
 	}

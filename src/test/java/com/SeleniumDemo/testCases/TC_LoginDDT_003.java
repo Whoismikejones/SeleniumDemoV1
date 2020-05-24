@@ -44,7 +44,7 @@ public class TC_LoginDDT_003 extends BaseClass {
 				captureScreen(driver, "TC_LoginDDT_003");
 			}
 		} catch (Exception e) {
-			logger.warn("Exception encountered");
+			logger.error("Exception encountered" + e.getMessage());
 		}
 
 	}

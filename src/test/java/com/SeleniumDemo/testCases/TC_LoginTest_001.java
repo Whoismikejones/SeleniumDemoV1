@@ -23,7 +23,7 @@ public class TC_LoginTest_001 extends BaseClass {
 				logger.error("Test Failed");
 			}
 		} catch (Exception e) {
-			logger.warn("Exception encountered");
+			logger.error("Exception encountered" + e.getMessage());
 		}
 	}
 

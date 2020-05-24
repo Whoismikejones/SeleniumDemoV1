@@ -336,3 +336,7 @@
 [INFO ] 2020-05-22 09:52:31.534 [main] BaseClass - Test Passed
 [INFO ] 2020-05-22 09:54:49.408 [main] BaseClass - Url is opened
 [INFO ] 2020-05-22 09:54:49.982 [main] BaseClass - Test Passed
+[INFO ] 2020-05-23 12:28:00.248 [main] BaseClass - Url is opened
+[INFO ] 2020-05-23 12:28:00.274 [main] BaseClass - Test Passed
+[INFO ] 2020-05-23 12:30:40.847 [main] TC_API_GET_Request_001 - Status Code: 200
+[INFO ] 2020-05-23 12:32:19.161 [main] TC_API_GET_Request_001 - Status Code: 200

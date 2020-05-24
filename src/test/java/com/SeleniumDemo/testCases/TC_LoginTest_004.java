@@ -65,7 +65,7 @@ public class TC_LoginTest_004 extends BaseClass {
 				Assert.assertTrue(false);
 			}
 		} catch (Exception e) {
-			logger.warn("Exception encountered");
+			logger.error("Exception encountered" + e.getMessage());
 		}
 
 	}
